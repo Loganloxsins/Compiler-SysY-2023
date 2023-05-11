@@ -1,0 +1,30 @@
+int main() {
+  int a=9;
+  return a;
+}
+
+//参考错误：https://chatgptproxy.me/index.html#/questionDetail?code=mFXPsYwrTUBwgWBeUsk5GTQ8MyxalhBqtgA_kXkeD1UXa2U2bxBUyYcYppOwaN3D
+/*
+//但有一些是语法上的
+  int a[];
+    return a;
+int main(){
+    int a[];
+    return a][;
+}
+
+int main(){
+1+2;
+int a;
+a=2333;
+}
+
+
+
+int main(){
+@#$;
+%%;
+$
+"a'
+}
+*/
